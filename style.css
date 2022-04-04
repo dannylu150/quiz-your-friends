@@ -1,20 +1,19 @@
 body{
   background-repeat: no-repeat; 
- background-size: cover;
+  background-size: cover;
   background-image: url(https://images.squarespace-cdn.com/content/v1/53b839afe4b07ea978436183/1619636932396-6DZZR1WGINWYADFUCU9I/popular-food-in-mexico.jpg)
    
 }
 
 .cool{
-    
-    background-color: beige;
+    background-color: skyblue;
 }
 
 fieldset {
-    color:green;
-    margin:auto;
-    width:50%;
+    margin: auto;
+    width: 25%;
+    height:500px;
     text-align: center;
-    
+    margin-top: 50px;
 }
 
