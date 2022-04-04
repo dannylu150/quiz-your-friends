@@ -1,8 +1,8 @@
 body{
-  background-repeat: no-repeat; 
-  background-size: cover;
+     background-size: cover;
+     background-repeat: no-repeat;
   background-image: url(https://images.squarespace-cdn.com/content/v1/53b839afe4b07ea978436183/1619636932396-6DZZR1WGINWYADFUCU9I/popular-food-in-mexico.jpg)
-   
+  
 }
 
 .cool{
