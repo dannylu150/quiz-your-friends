@@ -17,3 +17,6 @@ fieldset {
     margin-top: 50px;
 }
 
+legend {
+    font-size: 25px;
+}
